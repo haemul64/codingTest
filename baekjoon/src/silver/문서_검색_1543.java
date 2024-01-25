@@ -1,4 +1,4 @@
-package bronze;
+package silver;
 
 import java.io.FileInputStream;
 import java.util.Scanner;
