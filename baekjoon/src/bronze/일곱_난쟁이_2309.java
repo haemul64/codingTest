@@ -39,6 +39,7 @@ public class 일곱_난쟁이_2309 {
 					for(int k=i; k>j; k--)
 						arr[k] = arr[k-1];
 					arr[j] = cur;
+					break;
 				}
 			}
 		}
